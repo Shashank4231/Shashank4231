@@ -226,13 +226,12 @@ An AI-powered full-stack e-commerce platform designed to create a smarter and mo
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="180" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="180" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="180" src="./profile/streak.svg" alt="GitHub Streak" />
+</p>
 
-<img height="180" src="https://streak-stats.demolab.com?user=Shashank4231&theme=transparent&hide_border=true" alt="GitHub Streak" />
-
-</p> <p align="center">
-<img src="./profile/top-langs.svg" alt="Top Languages" />
-
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ---
