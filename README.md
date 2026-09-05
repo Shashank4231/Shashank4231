@@ -1,64 +1,344 @@
-<h1 align="center">Hi 👋, I'm Shashank Shekhar</h1> <h3 align="center">Computer Science Student • Java Developer • Web Development Enthusiast</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Java+Developer;Web+Development+Enthusiast;DSA+Learner;Problem+Solver;Open+Source+Contributor+in+Progress;Always+Learning+New+Things" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shashank4231&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
-🚀 About Me
+<!-- =========================== HERO =========================== -->
 
-🎓 Computer Science Student
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Shashank%20Shekhar&fontSize=52&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=55&descSize=18&color=gradient"/>
 
-💻 Passionate about Software Development, Web Development, DSA, and Problem Solving
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+ideas+into+real+products.;Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+Java;Learning%2C+Building%2C+and+Improving+Every+Day."
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
-🌱 Currently Learning
+<p align="center">
+  <a href="https://github.com/Shashank4231">
+    <img src="https://img.shields.io/github/followers/Shashank4231?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Shashank4231&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views"/>
+</p>
 
-Data Structures & Algorithms
-Java Development
-Full Stack Web Development
-Database Management Systems
-Object-Oriented Programming
-Git & GitHub
-Open Source Development
+<br/>
 
-🎯 2026 Goals
+<!-- =========================== NAVIGATION =========================== -->
 
-Solve 500+ DSA Problems
-Build Real-World Projects
-Contribute to Open Source
-Master Full Stack Development
-Strengthen Java & DSA fundamentals
-Land a Software Engineering Role
-🧠 DSA & LeetCode
-<p align="center"> <a href="https://leetcode.com/u/Shashank4231/"> <img src="https://leetcard.jacoblin.cool/Shashank4231?theme=dark&font=Baloo&ext=heatmap" alt="Shashank's LeetCode Stats" /> </a> </p> <!-- LEETCODE_STATS_START --> <p align="center"> <b>🧩 LeetCode Problems Solved: Updating...</b> </p> <p align="center"> 🎯 Goal: <b>500+ DSA Problems</b> </p> <!-- LEETCODE_STATS_END -->
-💻 Tech Stack
-Programming Languages
-<p> <img src="https://skillicons.dev/icons?i=java,c,js,ts" /> </p>
-Frontend Development
-<p> <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,redux" /> </p>
-Backend Development
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </p>
-Databases
-<p> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> </p>
-Tools & Platforms
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,linux" /> </p>
-📊 GitHub Statistics
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shashank4231&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank4231&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-🔥 GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Shashank4231&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
-📈 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank4231&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" /> </p>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Shashank4231&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" /> </p>
-📚 Currently Working On
-🔹 Java Projects
-🔹 Data Structures & Algorithms
-🔹 LeetCode Problem Solving
-🔹 React Development
-🔹 Full Stack Development
-🔹 Open Source
-🔹 Database Management
-📌 Featured Projects
-🚀 Weather App
-🧮 Calculator App
-🌐 React Projects
-📚 Java Mini Projects
-🔍 DSA / LeetCode Solutions
-🛠️ Full Stack Projects
-🤝 Connect With Me
-<p align="left"> <a href="https://github.com/Shashank4231"> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" /> </a> &nbsp; <a href="https://leetcode.com/u/Shashank4231/"> <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" /> </a> </p>
-<p align="center"> <i>⭐ If you like my work, consider following me and starring my repositories!</i> </p> <p align="center"> <b>Thanks for visiting my profile! ❤️</b> </p>
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-github-analytics">Analytics</a> •
+  <a href="#-current-focus">Current Focus</a> •
+  <a href="#-connect-with-me">Connect</a>
+</p>
+
+---
+
+<!-- =========================== ABOUT =========================== -->
+
+## 👨‍💻 About Me
+
+```javascript
+const shashank = {
+  role: "Computer Engineering Student & Full Stack Developer",
+
+  currentlyLearning: [
+    "Spring Boot",
+    "Backend Architecture",
+    "System Design"
+  ],
+
+  interests: [
+    "Full Stack Development",
+    "Scalable Applications",
+    "Problem Solving"
+  ],
+
+  philosophy:
+    "Learn continuously. Build consistently. Improve every day."
+};
+```
+
+* 🎓 Computer Engineering student passionate about software development.
+* 💻 Focused on building modern **full-stack applications**.
+* 🧠 Continuously improving my **DSA and problem-solving skills**.
+* 🚀 Interested in creating scalable and production-ready applications.
+* 🌱 Currently exploring **Spring Boot, backend development, and system design**.
+* ⚡ I enjoy turning ideas into real, working products.
+
+---
+
+<!-- =========================== CONNECT =========================== -->
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shashank-shekhar-b7b66128a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Shashank%20Shekhar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Shashank4231">
+  <img src="https://img.shields.io/badge/GitHub-Shashank4231-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Shashank4231/">
+  <img src="https://img.shields.io/badge/LeetCode-Shashank4231-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+<!-- =========================== TECH STACK =========================== -->
+
+## ⚡ Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,c" />
+</p>
+
+### 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind" />
+</p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
+
+---
+
+<!-- =========================== PROJECTS =========================== -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">💻 CodeSync</h3>
+
+<p align="center">
+A full-stack collaborative technical interview platform built for real-time coding and communication.
+</p>
+
+### ✨ Highlights
+
+* ⚡ Real-time collaborative code synchronization
+* 🧑‍💻 Interactive coding environment
+* 🎥 Video and audio communication
+* 🔌 WebSocket-powered real-time features
+* 🧠 AI-powered technical feedback
+* 🏗️ Modern full-stack architecture
+
+### 🛠️ Built With
+
+<p>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Shashank4231/codesync-interview-platform">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🛒 SmartShop AI</h3>
+
+<p align="center">
+An AI-powered full-stack e-commerce platform designed to create a smarter and more personalized shopping experience.
+</p>
+
+### ✨ Highlights
+
+* 🛍️ Modern e-commerce experience
+* 🤖 AI-powered shopping features
+* 🔐 User authentication
+* 🛒 Product and shopping workflows
+* 📱 Responsive user interface
+* ⚡ Full-stack application architecture
+
+### 🛠️ Built With
+
+<p>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Shashank4231/SmartShop-AI">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- =========================== GITHUB ANALYTICS =========================== -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api?username=Shashank4231&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+/>
+
+<img
+height="180"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank4231&theme=transparent&hide_border=true"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank4231&layout=compact&theme=transparent&hide_border=true"
+/>
+
+</p>
+
+---
+
+<!-- =========================== ACTIVITY GRAPH =========================== -->
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank4231&theme=github-compact&hide_border=true"
+  />
+</p>
+
+---
+
+<!-- =========================== CURRENT FOCUS =========================== -->
+
+## 🎯 Current Focus
+
+```text
+📚 Data Structures & Algorithms
+
+⚙️ Backend Development
+
+🌱 Spring Boot
+
+🏗️ System Design Fundamentals
+
+🚀 Building Production-Ready Projects
+```
+
+---
+
+<!-- =========================== LEARNING =========================== -->
+
+## 🌱 Learning Journey
+
+<p align="center">
+
+```text
+Frontend
+   ↓
+React & Modern JavaScript
+   ↓
+Full Stack Development
+   ↓
+Backend Engineering
+   ↓
+Spring Boot
+   ↓
+System Design
+   ↓
+Scalable Applications 🚀
+```
+
+</p>
+
+---
+
+<!-- =========================== PRINCIPLE =========================== -->
+
+## 🧠 Developer Mindset
+
+> **Learn → Build → Break → Debug → Improve → Repeat**
+
+<p align="center">
+  <i>Consistency compounds into expertise.</i>
+</p>
+
+---
+
+<!-- =========================== SNAKE =========================== -->
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Shashank4231/Shashank4231/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+---
+
+<!-- =========================== FOOTER =========================== -->
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Feel free to explore my repositories, connect with me, and follow my journey.**
+
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+
