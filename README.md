@@ -227,23 +227,13 @@ An AI-powered full-stack e-commerce platform designed to create a smarter and mo
 
 <p align="center">
 
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=Shashank4231&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shashank4231&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" />
 
-<img
-height="180"
-src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank4231&theme=transparent&hide_border=true"
-/>
+<img height="180" src="https://streak-stats.demolab.com?user=Shashank4231&theme=transparent&hide_border=true" />
 
-</p>
+</p> <p align="center">
 
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank4231&layout=compact&theme=transparent&hide_border=true"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank4231&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" />
 
 </p>
 
